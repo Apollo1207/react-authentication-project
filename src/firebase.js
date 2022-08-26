@@ -1,4 +1,5 @@
 import firebase from "firebase/compat/app";
+
 require('firebase/compat/auth');
 
 const firebaseConfig = {
